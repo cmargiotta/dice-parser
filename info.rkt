@@ -10,3 +10,6 @@
 
 (define deps '("base"))
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
+
+;; Documentation:
+(define scribblings '(("docs/main.scrbl")))
