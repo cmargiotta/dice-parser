@@ -1,4 +1,4 @@
-#lang racket
+#lang info
 
 (define collection "dice-parser")
 
