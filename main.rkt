@@ -1,6 +1,6 @@
 #lang racket
 
-(require "core.rkt")
+(require "core/main.rkt")
 
 (provide roll)
 (provide simple-roll)
