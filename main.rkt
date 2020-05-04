@@ -1,7 +1,5 @@
 #lang racket
 
-#lang racket
-
 (provide (contract-out
           [simple-roll (-> is-simple-dice? any)]
           [roll (-> is-dice? any)]
