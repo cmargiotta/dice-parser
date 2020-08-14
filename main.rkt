@@ -71,7 +71,7 @@
     (compute-dice-expr parsed)))
 
 ;;;;;;;;;;;;;;;;;;
-TESTS
+; TESTS
 ;;;;;;;;;;;;;;;;;;
 
 (module+ test
